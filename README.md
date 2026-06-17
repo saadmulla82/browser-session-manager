@@ -157,11 +157,23 @@ Exiting Browser...
 ## 2.10 Screenshots
 
 <img width="474" height="342" alt="Screenshot 2026-06-18 at 4 39 36 AM" src="https://github.com/user-attachments/assets/6b956c5c-65dc-4034-b84b-1332be272a3e" />
+
+
 <img width="283" height="293" alt="Screenshot 2026-06-18 at 4 39 59 AM" src="https://github.com/user-attachments/assets/52a227ce-7a8d-4d46-8950-24c2ac26d376" />
+
+
 <img width="311" height="160" alt="Screenshot 2026-06-18 at 4 40 15 AM" src="https://github.com/user-attachments/assets/12bf7630-d064-445e-b918-360a710b061f" />
+
+
 <img width="271" height="150" alt="Screenshot 2026-06-18 at 4 40 22 AM" src="https://github.com/user-attachments/assets/1208ec5e-fa8b-4816-92c1-1d26da832421" />
+
+
 <img width="250" height="203" alt="Screenshot 2026-06-18 at 4 40 30 AM" src="https://github.com/user-attachments/assets/805a46a0-cc31-4384-8174-6bd4812b3383" />
+
+
 <img width="252" height="227" alt="Screenshot 2026-06-18 at 4 40 45 AM" src="https://github.com/user-attachments/assets/f4813c32-008f-4858-8782-65a822aef54a" />
+
+
 <img width="479" height="168" alt="Screenshot 2026-06-18 at 4 40 53 AM" src="https://github.com/user-attachments/assets/183b95c0-d76d-4d64-b137-7ae2fda0242b" />
 
 ---
